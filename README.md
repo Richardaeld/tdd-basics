@@ -1,1 +1,1 @@
-Test driven deelopment basics with jest
+Test-driven development basics with jest
